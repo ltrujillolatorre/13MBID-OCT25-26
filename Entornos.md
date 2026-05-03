@@ -10,7 +10,7 @@ Una vez clonado en forma local el repositorio template de la asignatura, se podr
     ~~~ bash
     conda create -n 13MBID python=3.12
     conda activate 13MBID
-    pip install -r config/requirements.txt    
+    pip install -r config/requirements.txt
     ~~~
 
 ## LINUX/UNIX >> Pasos a seguir para generar el entorno de trabajo
